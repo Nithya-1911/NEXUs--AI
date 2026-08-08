@@ -98,6 +98,15 @@ The project was tested locally by:
 The project was developed, configured, tested, and iteratively refined
 during the hackathon. AI assistance was used as a development and
 debugging tool throughout the implementation.
+The project direction, problem selection, feature decisions, testing,
+deployment decisions, and final evaluation were guided by the human
+developer.
+
+AI assistance was used as a development partner for implementation,
+debugging, documentation, and iterative improvement.
+
+The final project was reviewed, tested, deployed, and validated by the
+developer before submission.
 
 ## Autonomous Flow
 
